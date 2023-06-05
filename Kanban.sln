@@ -10,15 +10,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.API", "Kanban.API\Ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Domain", "Kanban.Domain\Kanban.Domain.csproj", "{0597517D-8BD6-46FD-A97D-1FDAEDBD15DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbam.Infrastructure", "Kanbam.Infrastructure\Kanbam.Infrastructure.csproj", "{EF20A5F3-BB32-4EEA-8C39-ECD9F82F8959}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Infrastructure", "Kanban.Infrastructure\Kanban.Infrastructure.csproj", "{EF20A5F3-BB32-4EEA-8C39-ECD9F82F8959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbam.Application", "Kanbam.Application\Kanbam.Application.csproj", "{60EAFD5C-08C9-4AD9-AC66-784E87A2243D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Application", "Kanban.Application\Kanban.Application.csproj", "{60EAFD5C-08C9-4AD9-AC66-784E87A2243D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{14A83B9F-A9A9-49E1-B4DE-E67112AF3721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbam.Exceptions", "Kanbam.Exceptions\Kanbam.Exceptions.csproj", "{B595ADB6-5B82-4DCA-BAF4-FE6304C27DA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Exceptions", "Kanban.Exceptions\Kanban.Exceptions.csproj", "{B595ADB6-5B82-4DCA-BAF4-FE6304C27DA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanbam.Communication", "Kanbam.Communication\Kanbam.Communication.csproj", "{3B435DA6-EC77-4A5D-BFBD-4A360C12026B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Communication", "Kanban.Communication\Kanban.Communication.csproj", "{3B435DA6-EC77-4A5D-BFBD-4A360C12026B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
