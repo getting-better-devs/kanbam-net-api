@@ -7,8 +7,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5"/>
-        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Kanban.Application\Kanban.Application.csproj" />
+      <ProjectReference Include="..\Kanban.Communication\Kanban.Communication.csproj" />
+      <ProjectReference Include="..\Kanban.Domain\Kanban.Domain.csproj" />
+      <ProjectReference Include="..\Kanban.Exceptions\Kanban.Exceptions.csproj" />
+      <ProjectReference Include="..\Kanban.Infrastructure\Kanban.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

@@ -7,4 +7,10 @@
         <RootNamespace>Kanban.Application</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Kanban.Communication\Kanban.Communication.csproj" />
+      <ProjectReference Include="..\Kanban.Domain\Kanban.Domain.csproj" />
+      <ProjectReference Include="..\Kanban.Exceptions\Kanban.Exceptions.csproj" />
+    </ItemGroup>
+
 </Project>
